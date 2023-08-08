@@ -12,7 +12,7 @@
     
 - 本製品をダウンロードした場合、以下ソフトウェア使用許諾に合意したとみなされます
 
-  - [ソフトウェア使用許諾](https://www.ryobi.co.jp/security/arcaclavis-next)
+  - [ソフトウェア使用許諾](https://github.com/ss-dev-release/product/blob/main/License)
   
   #### 2023/9/1より ARCACLAVIS NEXT無料版のライセンスキーの配布いたします
   - 現在、無料評価版のダウンロードはできますが、インストールにはライセンスキーが必要です。提供までしばらくお待ちください。
@@ -21,7 +21,7 @@
 - 製品のインストールキーは無料で配布しております。
 - 以下リンクから利用アンケートに回答頂くと、メールで送付したします。
   
-  - [利用アンケート](https://www.ryobi.co.jp/security/arcaclavis-next)
+  - [利用アンケート](https://go.cs.ryobi.co.jp/l/540692/2023-07-06/2prbft)
 
 # ARCACLAVISシリーズについて  
 - ARCACLAVISシリーズは1998年より開発・販売を続ける信頼のセキュリティ製品です。
