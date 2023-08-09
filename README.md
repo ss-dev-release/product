@@ -6,7 +6,7 @@
   - [製品ページ](https://www.ryobi.co.jp/security/arcaclavis-next)
 
 # 製品のダウンロード
-- 右側の「Release」のリンクから最新版がダウンロードしてください。
+- 以下のリンクから最新版をダウンロードしてください。
   
   - [ダウンロード](https://github.com/ss-dev-release/product/releases)
     
@@ -14,7 +14,7 @@
 
   - [ソフトウェア使用許諾](https://github.com/ss-dev-release/product/blob/main/License)
   
-  #### 2023/9/1より ARCACLAVIS NEXT無料版のライセンスキーの配布いたします
+  #### 2023/9/1より ARCACLAVIS NEXT無料版のライセンスキーを配布いたします
   - 現在、無料評価版のダウンロードはできますが、インストールにはライセンスキーが必要です。提供までしばらくお待ちください。
   
 # インストールキーの入手
@@ -31,5 +31,3 @@
 # ARCACLAVIS NEXT無料版公開にあたって
 - 皆様にARCACLAVISという製品を広く知っていただき、評価して頂くことを目的としております。
 - 弊社開発チームでは皆様の評価を元に改善を行い、よりよい製品開発に生かしたいと考えております。
-  
-
