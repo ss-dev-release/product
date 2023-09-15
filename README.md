@@ -12,7 +12,7 @@
     
 - 本製品をダウンロードした場合、以下ソフトウェア使用許諾に合意したとみなされます
 
-  - [ソフトウェア使用許諾](https://github.com/ss-dev-release/product/blob/main/License)
+  - [ソフトウェア使用許諾](https://github.com/ss-dev-release/product/blob/main/License.txt)
 
 # インストールキーの入手
 - 製品のインストールキーは無料で配布しております。
